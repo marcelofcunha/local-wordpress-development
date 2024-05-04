@@ -1,2 +1,2 @@
 # local-wordpress-development
-my local development WordPress and mysql 
+my local development in WordPress and MySQL with docker
